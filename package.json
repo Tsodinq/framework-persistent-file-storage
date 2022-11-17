@@ -1,0 +1,13 @@
+{
+  "name": "framework-persistent-file-storage",
+  "version": "1.0.0",
+  "description": "Persistent file storage for Framework media",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
